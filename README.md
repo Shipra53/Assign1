@@ -1,6 +1,5 @@
 ✅ 1. Test Cases Provided:
-Unit tests are written using pytest and fastapi.testclient to validate:
-
+Unit tests are written 
 Signup
 
 Login
